@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="270" viewBox="0 0 800 270" role="img" aria-label="Learnify. Learning app with Firebase auth, REST data, QR course enrollment, Arabic and English.">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F2C14E"/><stop offset="1" stop-color="#F2C14E" stop-opacity="0.3"/></linearGradient>
+<radialGradient id="r" cx="1" cy="0" r="1"><stop offset="0" stop-color="#F2C14E" stop-opacity="0.25"/><stop offset="1" stop-color="#F2C14E" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="800" height="270" rx="24"/></clipPath>
+<style>.arrow{animation:ar 3.5s ease-in-out infinite}@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}@media (prefers-reduced-motion: reduce){.arrow{animation:none}}</style></defs>
+<g clip-path="url(#c)"><rect width="800" height="270" fill="#11131B"/><rect width="800" height="270" fill="url(#r)"/>
+<rect width="10" height="270" fill="url(#a)"/>
+<text x="750" y="84" text-anchor="end" font-family="Georgia,'Times New Roman',serif" font-size="64" font-weight="700" fill="#F2C14E" fill-opacity="0.5">01</text>
+<text x="70" y="86" font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="700" fill="#F4EFE6">Learnify</text>
+<rect x="70" y="102" width="64" height="4" rx="2" fill="#F2C14E"/>
+<text x="70" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" fill="#B9B3A8">Learning app with Firebase auth, REST data,</text><text x="70" y="180" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" fill="#B9B3A8">QR course enrollment, Arabic and English.</text>
+
+</g></svg>
