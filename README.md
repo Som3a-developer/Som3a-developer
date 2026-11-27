@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <code>Flutter</code> <code>Dart</code> <code>Bloc/Cubit</code> <code>REST APIs</code> <code>Firebase</code>
+</p>
+
+<p align="center">
   <a href="https://youssefesmail.figma.site"><b>Portfolio</b></a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/yosefesmail/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
   <a href="mailto:youssefemail19@gmail.com"><b>Email</b></a>
@@ -16,37 +20,18 @@
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Som3a-developer/health_app">FitLife app</a></h3>
-      Flutter app for tracking calories, meals, goals and progress.<br><br>
-      <code>Flutter</code> <code>Dart</code> <code>Provider</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Som3a-developer/Graduation-Project">Healthy lifestyle backend</a></h3>
-      Node.js, Express and MySQL API for a healthy lifestyle app.<br><br>
-      <code>Node.js</code> <code>Express</code> <code>MySQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Som3a-developer/book_store">Book Space</a></h3>
-      Flutter graduation project with admin book management, favorites and a library. UI based on a Behance design.<br><br>
-      <code>Flutter</code> <code>Dart</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Som3a-developer/ai_recruitment">AI Recruitment</a></h3>
-      Academic project using LangGraph, RAG and FAISS to evaluate candidates.<br><br>
-      <code>Python</code> <code>LangGraph</code> <code>RAG</code> <code>FAISS</code>
-    </td>
-  </tr>
-</table>
+### [FitLife app](https://github.com/Som3a-developer/health_app)
+Flutter app for tracking calories, meals, goals and progress.<br>
+`Flutter` `Dart` `Provider`
 
-<img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/divider.svg" alt="" width="100%">
+### [Healthy lifestyle backend](https://github.com/Som3a-developer/Graduation-Project)
+Node.js, Express and MySQL API for a healthy lifestyle app.<br>
+`Node.js` `Express` `MySQL`
 
-<p align="center">
-  <a href="https://youssefesmail.figma.site">youssefesmail.figma.site</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/yosefesmail/">linkedin.com/in/yosefesmail</a> &nbsp;•&nbsp;
-  <a href="mailto:youssefemail19@gmail.com">youssefemail19@gmail.com</a>
-</p>
+### [Book Space](https://github.com/Som3a-developer/book_store)
+Flutter graduation project with admin book management, favorites and a library. UI based on a Behance design.<br>
+`Flutter` `Dart`
+
+### [AI Recruitment](https://github.com/Som3a-developer/ai_recruitment)
+Academic project using LangGraph and RAG to evaluate candidates.<br>
+`Python` `LangGraph` `RAG` `Pinecone`
