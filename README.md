@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/motion-preview/assets/v6/hero.svg" alt="Youssef Esmail, Junior Flutter Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/motion-preview/assets/v7/hero.svg" alt="Youssef Esmail, Junior Flutter Developer" width="100%">
 </p>
 
 <p align="center">
