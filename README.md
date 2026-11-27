@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/banner-v2.svg" alt="Youssef Esmail, Junior Flutter Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/banner-v3.svg" alt="Youssef Esmail, Junior Flutter Developer" width="100%">
 </p>
 
 <p align="center">
@@ -34,4 +34,4 @@ Flutter graduation project with admin book management, favorites and a library. 
 
 ### [AI Recruitment](https://github.com/Som3a-developer/ai_recruitment)
 Academic project using LangGraph and RAG to evaluate candidates.<br>
-`Python` `LangGraph` `RAG` `Pinecone`
+`Python` `LangGraph` `RAG`
