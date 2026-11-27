@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-label="Youssef Esmail, Junior Flutter Developer">
+<defs>
+  <radialGradient id="g1" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#FF8A4C" stop-opacity="0.35"/><stop offset="1" stop-color="#FF8A4C" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0.05" cy="1" r="0.7"><stop offset="0" stop-color="#7CF0C9" stop-opacity="0.22"/><stop offset="1" stop-color="#7CF0C9" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="1000" height="460" rx="28"/></clipPath>
+  <style>
+    .fa{animation:fa 7s ease-in-out infinite} .fb{animation:fb 8s ease-in-out infinite} .fc{animation:fa 9s ease-in-out infinite}
+    .rule{transform-box:fill-box;transform-origin:left center;animation:ru 6s ease-in-out infinite}
+    @keyframes fa{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+    @keyframes fb{0%,100%{transform:translateY(0)}50%{transform:translateY(12px)}}
+    @keyframes ru{0%,100%{transform:scaleX(.5)}50%{transform:scaleX(1)}}
+    @media (prefers-reduced-motion: reduce){.fa,.fb,.fc,.rule{animation:none}}
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1000" height="460" fill="#0B0C12"/>
+  <rect width="1000" height="460" fill="url(#g1)"/><rect width="1000" height="460" fill="url(#g2)"/>
+  <circle cx="780" cy="230" r="190" fill="none" stroke="#F4EFE6" stroke-opacity="0.06" stroke-width="2"/>
+  <circle cx="780" cy="230" r="270" fill="none" stroke="#F4EFE6" stroke-opacity="0.04" stroke-width="2"/>
+  
+  <text x="60" y="206" font-family="Georgia,'Times New Roman',serif" font-size="112" font-weight="700" fill="#F4EFE6">Youssef</text>
+  <text x="62" y="316" font-family="Georgia,'Times New Roman',serif" font-size="112" font-weight="700" font-style="italic" fill="#FF8A4C">Esmail</text>
+  <rect class="rule" x="66" y="352" width="220" height="5" rx="2.5" fill="#7CF0C9"/>
+  <text x="64" y="406" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="500" fill="#B9B3A8">Junior Flutter Developer</text>
+  <g transform="translate(560 70) rotate(-8 85 170)"><g class="fa" style="animation-delay:0s">
+      <rect width="170" height="340" rx="30" fill="#12141D" stroke="#F4EFE6" stroke-opacity="0.35" stroke-width="2"/>
+      <rect x="62" y="12" width="46" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.25"/>
+      <rect x="18" y="40" width="90" height="12" rx="6" fill="#F4EFE6" fill-opacity="0.7"/>
+      <rect x="18" y="60" width="60" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.25"/>
+      <rect x="18" y="86" width="134" height="84" rx="16" fill="#FF8A4C" fill-opacity="0.9"/>
+      <circle cx="46" cy="128" r="22" fill="#0B0C12" fill-opacity="0.25"/>
+      <rect x="78" y="116" width="58" height="9" rx="4.5" fill="#0B0C12" fill-opacity="0.45"/>
+      <rect x="78" y="132" width="40" height="7" rx="3.5" fill="#0B0C12" fill-opacity="0.3"/>
+      <rect x="18" y="186" width="134" height="40" rx="12" fill="#F4EFE6" fill-opacity="0.08"/>
+      <rect x="18" y="236" width="134" height="40" rx="12" fill="#F4EFE6" fill-opacity="0.08"/>
+      <rect x="30" y="202" width="64" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.4"/>
+      <rect x="30" y="252" width="80" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.4"/>
+      <circle cx="128" cy="206" r="8" fill="#FF8A4C"/><circle cx="128" cy="256" r="8" fill="#FF8A4C" fill-opacity="0.5"/>
+      <rect x="50" y="314" width="70" height="6" rx="3" fill="#F4EFE6" fill-opacity="0.35"/>
+    </g></g>
+  <g transform="translate(690 40) rotate(0 85 170)"><g class="fb" style="animation-delay:-2s">
+      <rect width="170" height="340" rx="30" fill="#12141D" stroke="#F4EFE6" stroke-opacity="0.35" stroke-width="2"/>
+      <rect x="62" y="12" width="46" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.25"/>
+      <rect x="18" y="40" width="90" height="12" rx="6" fill="#F4EFE6" fill-opacity="0.7"/>
+      <rect x="18" y="60" width="60" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.25"/>
+      <rect x="18" y="86" width="134" height="84" rx="16" fill="#7CF0C9" fill-opacity="0.9"/>
+      <circle cx="46" cy="128" r="22" fill="#0B0C12" fill-opacity="0.25"/>
+      <rect x="78" y="116" width="58" height="9" rx="4.5" fill="#0B0C12" fill-opacity="0.45"/>
+      <rect x="78" y="132" width="40" height="7" rx="3.5" fill="#0B0C12" fill-opacity="0.3"/>
+      <rect x="18" y="186" width="134" height="40" rx="12" fill="#F4EFE6" fill-opacity="0.08"/>
+      <rect x="18" y="236" width="134" height="40" rx="12" fill="#F4EFE6" fill-opacity="0.08"/>
+      <rect x="30" y="202" width="64" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.4"/>
+      <rect x="30" y="252" width="80" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.4"/>
+      <circle cx="128" cy="206" r="8" fill="#7CF0C9"/><circle cx="128" cy="256" r="8" fill="#7CF0C9" fill-opacity="0.5"/>
+      <rect x="50" y="314" width="70" height="6" rx="3" fill="#F4EFE6" fill-opacity="0.35"/>
+    </g></g>
+  <g transform="translate(790 84) rotate(8 85 170)"><g class="fc" style="animation-delay:-4s">
+      <rect width="170" height="340" rx="30" fill="#12141D" stroke="#F4EFE6" stroke-opacity="0.35" stroke-width="2"/>
+      <rect x="62" y="12" width="46" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.25"/>
+      <rect x="18" y="40" width="90" height="12" rx="6" fill="#F4EFE6" fill-opacity="0.7"/>
+      <rect x="18" y="60" width="60" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.25"/>
+      <rect x="18" y="86" width="134" height="84" rx="16" fill="#F2C14E" fill-opacity="0.9"/>
+      <circle cx="46" cy="128" r="22" fill="#0B0C12" fill-opacity="0.25"/>
+      <rect x="78" y="116" width="58" height="9" rx="4.5" fill="#0B0C12" fill-opacity="0.45"/>
+      <rect x="78" y="132" width="40" height="7" rx="3.5" fill="#0B0C12" fill-opacity="0.3"/>
+      <rect x="18" y="186" width="134" height="40" rx="12" fill="#F4EFE6" fill-opacity="0.08"/>
+      <rect x="18" y="236" width="134" height="40" rx="12" fill="#F4EFE6" fill-opacity="0.08"/>
+      <rect x="30" y="202" width="64" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.4"/>
+      <rect x="30" y="252" width="80" height="8" rx="4" fill="#F4EFE6" fill-opacity="0.4"/>
+      <circle cx="128" cy="206" r="8" fill="#F2C14E"/><circle cx="128" cy="256" r="8" fill="#F2C14E" fill-opacity="0.5"/>
+      <rect x="50" y="314" width="70" height="6" rx="3" fill="#F4EFE6" fill-opacity="0.35"/>
+    </g></g>
+</g>
+</svg>
