@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/banner-v3.svg" alt="Youssef Esmail, Junior Flutter Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/v4/hero.svg" alt="Youssef Esmail, Junior Flutter Developer" width="100%">
 </p>
 
 <p align="center">
@@ -7,31 +7,31 @@
 </p>
 
 <p align="center">
-  <code>Flutter</code> <code>Dart</code> <code>Bloc/Cubit</code> <code>REST APIs</code> <code>Firebase</code>
-</p>
-
-<p align="center">
-  <a href="https://youssefesmail.figma.site"><b>Portfolio</b></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/yosefesmail/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+  <a href="https://youssefesmail.figma.site"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yosefesmail/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:youssefemail19@gmail.com"><b>Email</b></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/divider.svg" alt="" width="100%">
+<br>
 
-## Selected projects
+<h2 align="center">Selected work</h2>
 
-### [FitLife app](https://github.com/Som3a-developer/health_app)
-Flutter app for tracking calories, meals, goals and progress.<br>
-`Flutter` `Dart` `Provider`
+<p align="center">
+  <a href="https://github.com/Som3a-developer/Learnify"><img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/v4/card1.svg" alt="Learnify" width="100%"></a><br>
+  <code>Flutter</code> <code>Bloc</code> <code>Firebase</code> <code>REST</code>
+</p>
 
-### [Healthy lifestyle backend](https://github.com/Som3a-developer/Graduation-Project)
-Node.js, Express and MySQL API for a healthy lifestyle app.<br>
-`Node.js` `Express` `MySQL`
+<p align="center">
+  <a href="https://github.com/Som3a-developer/health_app"><img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/v4/card2.svg" alt="FitLife" width="100%"></a><br>
+  <code>Flutter</code> <code>Dart</code> <code>Provider</code>
+</p>
 
-### [Book Space](https://github.com/Som3a-developer/book_store)
-Flutter graduation project with admin book management, favorites and a library. UI based on a Behance design.<br>
-`Flutter` `Dart`
+<p align="center">
+  <a href="https://github.com/Blood-Bridge/Mobile"><img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/v4/card3.svg" alt="Blood Bridge" width="100%"></a><br>
+  <code>Flutter</code> <code>Dart</code> <code>Bloc</code> <code>Firebase</code>
+</p>
 
-### [AI Recruitment](https://github.com/Som3a-developer/ai_recruitment)
-Academic project using LangGraph and RAG to evaluate candidates.<br>
-`Python` `LangGraph` `RAG`
+<p align="center">
+  <a href="https://github.com/Som3a-developer/ai_recruitment"><img src="https://raw.githubusercontent.com/Som3a-developer/Som3a-developer/main/assets/v4/card4.svg" alt="AI Recruitment" width="100%"></a><br>
+  <code>Python</code> <code>LangGraph</code> <code>RAG</code>
+</p>
