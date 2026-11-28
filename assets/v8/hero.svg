@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-label="Youssef Esmail, Junior Flutter Developer">
+<defs>
+  <radialGradient id="g1" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#FF8A4C" stop-opacity="0.35"/><stop offset="1" stop-color="#FF8A4C" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0.05" cy="1" r="0.7"><stop offset="0" stop-color="#7CF0C9" stop-opacity="0.22"/><stop offset="1" stop-color="#7CF0C9" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowG" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF8A4C" stop-opacity="0.85"/><stop offset="1" stop-color="#FF8A4C" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="1000" height="460" rx="28"/></clipPath>
+  <linearGradient id="shineG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="ruleClip"><rect x="66" y="352" width="220" height="5" rx="2.5"/></clipPath>
+  <style>
+    .rise{animation:rise .6s cubic-bezier(.2,.75,.25,1) both}
+    .txt{animation:fadeup .5s ease-out both}
+    .t1{animation-delay:.15s}.t2{animation-delay:.3s}.t3{animation-delay:.55s}
+    .rule{transform-box:fill-box;transform-origin:left center;animation:draw .6s .6s cubic-bezier(.3,.8,.3,1) both}
+    .d1{animation:rise .6s .05s cubic-bezier(.2,.75,.25,1) both}
+    .d2{animation:rise .6s .2s cubic-bezier(.2,.75,.25,1) both}
+    .d3{animation:rise .6s .35s cubic-bezier(.2,.75,.25,1) both}
+    .spin-a{transform-box:fill-box;transform-origin:center;animation:spin 50s linear infinite}
+    .spin-b{transform-box:fill-box;transform-origin:center;animation:spin-rev 80s linear infinite}
+    .spin-c{transform-box:fill-box;transform-origin:center;animation:spin 34s linear infinite}
+    .orb-a{transform-box:fill-box;transform-origin:center;animation:pop 3.6s 1.4s ease-in-out infinite}
+    .orb-b{transform-box:fill-box;transform-origin:center;animation:pop 3.6s 2.6s ease-in-out infinite}
+    .orb-c{transform-box:fill-box;transform-origin:center;animation:pop 3.6s 3.8s ease-in-out infinite}
+    .glow{animation:breathe 4.8s 1.2s ease-in-out infinite}
+    .mono{animation:fadeup .6s .5s ease-out both}
+    .shine{animation:shine 4.8s 1.4s linear infinite}
+    @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes fadeup{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @keyframes pop{0%,100%{transform:scale(1)}12%{transform:scale(1.5)}28%{transform:scale(1)}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes spin-rev{to{transform:rotate(-360deg)}}
+    @keyframes breathe{0%,100%{opacity:.28}50%{opacity:.5}}
+    @keyframes shine{0%{transform:translateX(0);opacity:0}6%{opacity:.7}45%{transform:translateX(330px);opacity:.7}52%,100%{transform:translateX(330px);opacity:0}}
+    @media (prefers-reduced-motion: reduce){.rise,.txt,.rule,.d1,.d2,.d3,.spin-a,.spin-b,.spin-c,.orb-a,.orb-b,.orb-c,.glow,.shine,.mono{animation:none}}
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1000" height="460" fill="#0B0C12"/>
+  <rect width="1000" height="460" fill="url(#g1)"/><rect width="1000" height="460" fill="url(#g2)"/>
+  <circle cx="780" cy="230" r="190" fill="none" stroke="#F4EFE6" stroke-opacity="0.06" stroke-width="2"/>
+  <circle cx="780" cy="230" r="270" fill="none" stroke="#F4EFE6" stroke-opacity="0.04" stroke-width="2"/>
+
+  <text class="txt t1" x="60" y="206" font-family="Georgia,'Times New Roman',serif" font-size="112" font-weight="700" fill="#F4EFE6">Youssef</text>
+  <text class="txt t2" x="62" y="316" font-family="Georgia,'Times New Roman',serif" font-size="112" font-weight="700" font-style="italic" fill="#FF8A4C">Esmail</text>
+  <rect class="rule" x="66" y="352" width="220" height="5" rx="2.5" fill="#7CF0C9"/>
+  <g clip-path="url(#ruleClip)"><rect class="shine" x="16" y="351" width="40" height="7" fill="url(#shineG)"/></g>
+  <text class="txt t3" x="64" y="406" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="500" fill="#B9B3A8">Junior Flutter Developer</text>
+
+  <g class="mono">
+    <circle class="glow" cx="780" cy="230" r="72" fill="url(#glowG)"/>
+    <g class="spin-a"><circle cx="780" cy="230" r="110" fill="none" stroke="#F4EFE6" stroke-opacity="0.16" stroke-width="2" stroke-dasharray="3 14" stroke-linecap="round"/></g>
+    <g class="spin-c"><circle cx="780" cy="230" r="82" fill="none" stroke="#7CF0C9" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="2 10" stroke-linecap="round"/></g>
+    <g class="spin-b">
+      <circle cx="780" cy="230" r="150" fill="none" stroke="#FF8A4C" stroke-opacity="0.22" stroke-width="2" stroke-dasharray="2 20" stroke-linecap="round"/>
+      <circle class="orb-a" cx="780" cy="80" r="7.5" fill="#FF8A4C"/>
+      <circle class="orb-b" cx="650" cy="305" r="7.5" fill="#7CF0C9"/>
+      <circle class="orb-c" cx="910" cy="305" r="7.5" fill="#F2C14E"/>
+    </g>
+    <text x="780" y="278" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="150" font-weight="700"><tspan fill="#F4EFE6">Y</tspan><tspan fill="#FF8A4C" font-style="italic">E</tspan></text>
+  </g>
+</g>
+</svg>
